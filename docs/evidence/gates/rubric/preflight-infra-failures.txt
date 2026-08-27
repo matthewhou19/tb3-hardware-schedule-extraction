@@ -1,0 +1,27 @@
+### Gate 2 attempt 1 - pure infra failure (agent never started)
+    await asyncio.wait_for(
+  File "/usr/lib/python3.12/asyncio/tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/environments/docker/docker.py", line 882, in start
+    await self._run_docker_compose_command(["up", "--detach", "--wait"])
+  File "/root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/environments/docker/docker.py", line 631, in _run_docker_compose_command
+    raise RuntimeError(
+RuntimeError: Docker compose command failed for environment rubric-review-0001. Command: docker compose --project-name rubric-review-0001__jtbmnd6__env --project-directory /tmp/harbor-exec-map-tasks-wasyxl43/rubric-review-0001/environment -f /tmp/tmp5p0kl3vv/rubric-review-0001__Jtbmnd6__env-docker-compose-resources.json -f /root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/environments/docker/docker-compose-prebuilt.yaml -f /tmp/tmphemkszuy/docker-compose-mounts.json up --detach --wait. Return code: 1. Stdout:  Image ubuntu:24.04 Pulling 
+/usr/bin/docker-credential-desktop.exe: Invalid argument
+error getting credentials - err: exit status 1, out: ``
+. Stderr: None. 
+
+### Gate 2 attempt 2 - harness/config failure (agent never started)
+  File "/root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/agents/installed/base.py", line 105, in wrapper
+    return await fn(self, instruction, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/agents/installed/claude_code.py", line 1298, in run
+    force_oauth = self._should_force_oauth()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/agents/installed/claude_code.py", line 1281, in _should_force_oauth
+    return parse_bool_env_value(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.cache/uv/archive-v0/SrQudlsW8Ndw4o1s/lib/python3.12/site-packages/harbor/utils/env.py", line 33, in parse_bool_env_value
+    raise ValueError(
+ValueError: Invalid value for 'CLAUDE_FORCE_OAUTH': cannot parse '****' as bool (expected true/false/1/0/yes/no)

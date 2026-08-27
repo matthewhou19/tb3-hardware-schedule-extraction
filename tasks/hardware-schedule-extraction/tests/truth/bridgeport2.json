@@ -1,0 +1,2794 @@
+{
+ "sets": [
+  {
+   "set_number": "52",
+   "description": null,
+   "pages": [
+    1
+   ],
+   "components": [
+    {
+     "qty": 6,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 6,
+     "description": "Door Silencer",
+     "catalog_number": "SR64 GRY",
+     "mfr": null,
+     "finish": "GRY",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "53",
+   "description": null,
+   "pages": [
+    1
+   ],
+   "components": [
+    {
+     "qty": 48,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Electric Strike",
+     "catalog_number": "6400- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Door Postion Switch",
+     "catalog_number": "679-05HM",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 16,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "54",
+   "description": null,
+   "pages": [
+    2
+   ],
+   "components": [
+    {
+     "qty": 210,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA714 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 70,
+     "description": "Electronic Locking Device",
+     "catalog_number": "SALTO Suite Entry Levers By Others",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 70,
+     "description": "Surface Closer",
+     "catalog_number": "161BFxTPN 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "161BFxTPN"
+      ]
+     }
+    },
+    {
+     "qty": 140,
+     "description": "Door Viewer",
+     "catalog_number": "U698B26D",
+     "mfr": null,
+     "finish": "26D",
+     "notes": []
+    },
+    {
+     "qty": 70,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 70,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "55",
+   "description": null,
+   "pages": [
+    3,
+    4
+   ],
+   "components": [
+    {
+     "qty": 1449,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA714 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 483,
+     "description": "Electronic Locking Device",
+     "catalog_number": "SALTO Suite Entry Levers By Others",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 483,
+     "description": "Surface Closer",
+     "catalog_number": "161BFxTPN 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "161BFxTPN"
+      ]
+     }
+    },
+    {
+     "qty": 483,
+     "description": "Door Viewer",
+     "catalog_number": "U698B26D",
+     "mfr": null,
+     "finish": "26D",
+     "notes": []
+    },
+    {
+     "qty": 483,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 483,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "56",
+   "description": null,
+   "pages": [
+    4
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "25-R-L-NL 622 510L-NL LAT 626 RHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/622",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "57",
+   "description": null,
+   "pages": [
+    5
+   ],
+   "components": [
+    {
+     "qty": 30,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 10,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 LHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 LHR Push Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 20,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 20,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Weatherstripping",
+     "catalog_number": "W-24S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "58",
+   "description": null,
+   "pages": [
+    5
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 RHR Push Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Weatherstripping",
+     "catalog_number": "W-24S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "59",
+   "description": null,
+   "pages": [
+    6,
+    7
+   ],
+   "components": [
+    {
+     "qty": 174,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Latchset",
+     "catalog_number": "W101 LAT/LAT 626/626",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "60",
+   "description": null,
+   "pages": [
+    8,
+    9
+   ],
+   "components": [
+    {
+     "qty": 348,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Lockset",
+     "catalog_number": "T581 P6 LAT/LAT 626/626 G 23981152",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Flush Bolt",
+     "catalog_number": "FB31P-12-MD C32D",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Astragal",
+     "catalog_number": "W-8SP x 2150mm",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 116,
+     "description": "Surface Closer",
+     "catalog_number": "SC61A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Coordinator",
+     "catalog_number": "COR72 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 58,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/1930 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "61",
+   "description": null,
+   "pages": [
+    9
+   ],
+   "components": [
+    {
+     "qty": 30,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 LHR 914 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8x34",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 30,
+     "description": "Door Silencer",
+     "catalog_number": "SR64 GRY",
+     "mfr": null,
+     "finish": "GRY",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "62",
+   "description": null,
+   "pages": [
+    10
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 5\" x 4 1/2\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 5\" x 4 1/2\""
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "25-R-L-NL 622 510L-NL LAT 626 LHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/622",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 LHR Push Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "9530-18"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "63",
+   "description": null,
+   "pages": [
+    11
+   ],
+   "components": [
+    {
+     "qty": 105,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 35,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 914 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 35,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 35,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 35,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8x34",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 105,
+     "description": "Door Silencer",
+     "catalog_number": "SR64 GRY",
+     "mfr": null,
+     "finish": "GRY",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "64",
+   "description": null,
+   "pages": [
+    12
+   ],
+   "components": [
+    {
+     "qty": 30,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "65",
+   "description": null,
+   "pages": [
+    12
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 5\" x 4 1/2\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Lockset",
+     "catalog_number": "MA581 P LTG/LTG 626/626 g RH",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Electric Strike",
+     "catalog_number": "6400- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Door Postion Switch",
+     "catalog_number": "679-05HM",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 RH Pull Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Schematic",
+     "catalog_number": "Opening Schematic By Others",
+     "mfr": null,
+     "finish": null,
+     "notes": [],
+     "row_status": "optional"
+    }
+   ]
+  },
+  {
+   "set_number": "66",
+   "description": null,
+   "pages": [
+    13
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 5\" x 4 1/2\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 5\" x 4 1/2\""
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Latchset",
+     "catalog_number": "MA101 LTG/LTG 626/626 LH",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "MA101 LTG/LTG"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Electric Strike",
+     "catalog_number": "6400- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 RHR Push Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 10,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "9530-18"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Weatherstripping",
+     "catalog_number": "W-24S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "67",
+   "description": null,
+   "pages": [
+    13
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 914 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC71A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "104S"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8x34",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "68",
+   "description": null,
+   "pages": [
+    14
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 914 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC71A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "104S"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8x34",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "8400 8x34"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "set_number": "69",
+   "description": null,
+   "pages": [
+    14
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Door Postion Switch",
+     "catalog_number": "679-05HM",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC71A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "104S"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "70",
+   "description": null,
+   "pages": [
+    15
+   ],
+   "components": [
+    {
+     "qty": 15,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC71A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "104S"
+      ]
+     }
+    },
+    {
+     "qty": 5,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 5,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "71",
+   "description": null,
+   "pages": [
+    15
+   ],
+   "components": [
+    {
+     "qty": 6,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 5\" x 4 1/2\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 5\" x 4 1/2\""
+      ]
+     }
+    },
+    {
+     "qty": 2,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 RHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "104S"
+      ]
+     }
+    },
+    {
+     "qty": 2,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 RHR Push Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 4,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 4,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "9530-18"
+      ]
+     }
+    },
+    {
+     "qty": 2,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "72",
+   "description": null,
+   "pages": [
+    16
+   ],
+   "components": [
+    {
+     "qty": 2,
+     "description": "Continuous Hinge",
+     "catalog_number": "112XY-83\" C28 EPT @ 42\" Top Down",
+     "mfr": null,
+     "finish": "C28",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Accessory",
+     "catalog_number": "EPT-10-689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Exit Device",
+     "catalog_number": "MEL-24-R-L-BE 630 712L-BE LAT 626 RHR 4' LENGTH 965 x 2134",
+     "mfr": null,
+     "finish": "626/630",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": null,
+     "catalog_number": "Power Supply - By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 LH Pull Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 4,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 4,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Weatherstripping",
+     "catalog_number": "Weatherstrip Set By Door Supplier",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Weatherstripping",
+     "catalog_number": "W-24S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "73",
+   "description": null,
+   "pages": [
+    16
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 5\" x 4 1/2\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 5\" x 4 1/2\""
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 LHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Electric Strike",
+     "catalog_number": "6300- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "104S"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 LHR Push Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "9530-18"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "74",
+   "description": null,
+   "pages": [
+    17
+   ],
+   "components": [
+    {
+     "qty": 1,
+     "description": "Continuous Hinge",
+     "catalog_number": "112XY-83\" C28 EPT @ 42\" Top Down",
+     "mfr": null,
+     "finish": "C28",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Accessory",
+     "catalog_number": "EPT-10-689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Exit Device",
+     "catalog_number": "MEL-24-R-L-BE 630 712L-BE LAT 626 LHR 4' LENGTH 965 x 2134",
+     "mfr": null,
+     "finish": "626/630",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": null,
+     "catalog_number": "Power Supply - By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Overhead Door Stop",
+     "catalog_number": "104S C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 4100 RH Pull Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "Weatherstrip Set By Door Supplier",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-24S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "75",
+   "description": null,
+   "pages": [
+    17
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Electric Strike",
+     "catalog_number": "6400- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Card Access",
+     "catalog_number": "Card Reader & Fobs By Security Contractor",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Door Postion Switch",
+     "catalog_number": "679-05HM",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 7900 RH Pull Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Actuator",
+     "catalog_number": "8310-813",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Mounting Box",
+     "catalog_number": "9530-18 628",
+     "mfr": null,
+     "finish": "628",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Door Viewer",
+     "catalog_number": "U698B26D",
+     "mfr": null,
+     "finish": "26D",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "76",
+   "description": null,
+   "pages": [
+    18
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA714 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA714 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Electric Strike",
+     "catalog_number": "6400- 24VDC-630",
+     "mfr": null,
+     "finish": "630",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Auto Operator",
+     "catalog_number": "Horton 7900 RH Pull Series",
+     "mfr": null,
+     "finish": "US28",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Emergency Call Kit",
+     "catalog_number": "CX-WEC10",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Push To Lock Kit",
+     "catalog_number": "CX-WC13XFM",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Logic Relay",
+     "catalog_number": "CX-33",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Wall Door Stop",
+     "catalog_number": "63F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/965 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "77",
+   "description": null,
+   "pages": [
+    18
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Latchset",
+     "catalog_number": "GLA101 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "78",
+   "description": null,
+   "pages": [
+    18
+   ],
+   "components": [
+    {
+     "qty": 6,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Exit Device",
+     "catalog_number": "25-R-L-NL 622 510L-NL LAT 626 LHR 914 x 2134 Door",
+     "mfr": null,
+     "finish": "626/622",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Exit Device",
+     "catalog_number": "25-R-L-NL 622 510L-NL LAT 626 RHR 914 x 2134 Door",
+     "mfr": null,
+     "finish": "626/622",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC81A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 2,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "S120"
+      ]
+     }
+    },
+    {
+     "qty": 2,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8x34",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 6,
+     "description": "Door Silencer",
+     "catalog_number": "SR64 GRY",
+     "mfr": null,
+     "finish": "GRY",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SR64"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "set_number": "79",
+   "description": null,
+   "pages": [
+    19
+   ],
+   "components": [
+    {
+     "qty": 6,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Exit Device",
+     "catalog_number": "F-25-R-L-BE 626 510L-BE LAT 626 LHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 6,
+     "description": "Door Silencer",
+     "catalog_number": "SR64 GRY",
+     "mfr": null,
+     "finish": "GRY",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "80",
+   "description": null,
+   "pages": [
+    19
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA2314 4 1/2\" x 4 1/2\" C32D NRP",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA2314 4 1/2\" x 4 1/2\" NRP"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "W581 P6 LAT/LAT G"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC71A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-2050S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Jamb Weatherstripping",
+     "catalog_number": "W-50S-CAx84\" Opening",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-38S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "81",
+   "description": null,
+   "pages": [
+    19
+   ],
+   "components": [
+    {
+     "qty": 6,
+     "description": "Continuous Hinge",
+     "catalog_number": "112XY-83\" C28",
+     "mfr": null,
+     "finish": "C28",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "112XY-83\""
+      ]
+     }
+    },
+    {
+     "qty": 3,
+     "description": "Lockset",
+     "catalog_number": "T581 P6 LAT/LAT 626/626 G 23981152",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "T581 P6 LAT/LAT G 23981152"
+      ]
+     }
+    },
+    {
+     "qty": 3,
+     "description": "Flush Bolt",
+     "catalog_number": "FB31P-12-MD C32D",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "FB31P-12-MD"
+      ]
+     }
+    },
+    {
+     "qty": 3,
+     "description": "Astragal",
+     "catalog_number": "W-8SP x 2150mm",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    },
+    {
+     "qty": 6,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC81A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 3,
+     "description": "Coordinator",
+     "catalog_number": "COR72 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "COR72"
+      ]
+     }
+    },
+    {
+     "qty": 3,
+     "description": "Gasketing",
+     "catalog_number": "W-22AL 1/2400 x 2/2134",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "82",
+   "description": null,
+   "pages": [
+    20
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA2314 4 1/2\" x 4 1/2\" C32D NRP",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC71A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-2050S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Jamb Weatherstripping",
+     "catalog_number": "W-50S-CAx84\" Opening",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-38S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "83",
+   "description": null,
+   "pages": [
+    20
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA786 4 1/2\" x 4\" C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "TA786 4 1/2\" x 4\""
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Exit Device",
+     "catalog_number": "25-R-L-NL 622 510L-NL LAT 626 LHR 965 x 2134 Door",
+     "mfr": null,
+     "finish": "626/622",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Cylinder",
+     "catalog_number": "985 626 1 1/4\" G 6-Pin Open",
+     "mfr": null,
+     "finish": "626",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Surface Closer",
+     "catalog_number": "SC81A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SC81A Rw/ PA"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Wall Door Stop",
+     "catalog_number": "S120 C26D",
+     "mfr": null,
+     "finish": "C26D",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "S120"
+      ]
+     }
+    },
+    {
+     "qty": 1,
+     "description": "Kick Plate",
+     "catalog_number": "8400 C32D 8\" x 36 1/2\"",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 3,
+     "description": "Door Silencer",
+     "catalog_number": "SR64 GRY",
+     "mfr": null,
+     "finish": "GRY",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "SR64"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "set_number": "84",
+   "description": null,
+   "pages": [
+    20
+   ],
+   "components": [
+    {
+     "qty": 3,
+     "description": "Standard Hinge",
+     "catalog_number": "TA2314 4 1/2\" x 4 1/2\" C32D NRP",
+     "mfr": null,
+     "finish": "C32D",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Lockset",
+     "catalog_number": "W581 P6 LAT/LAT 626/626 G",
+     "mfr": null,
+     "finish": "626/626",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Surface Closer",
+     "catalog_number": "SC71A Rw/ PA 689",
+     "mfr": null,
+     "finish": "689",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-2050S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 2,
+     "description": "Jamb Weatherstripping",
+     "catalog_number": "W-50S-CAx84\" Opening",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Weatherstripping",
+     "catalog_number": "W-38S-CA x 38\"",
+     "mfr": null,
+     "finish": "CA",
+     "notes": []
+    },
+    {
+     "qty": 1,
+     "description": "Threshold",
+     "catalog_number": "CT-65 x 38\"",
+     "mfr": null,
+     "finish": null,
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "85",
+   "description": null,
+   "pages": [
+    21
+   ],
+   "components": [
+    {
+     "qty": 2571,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 857,
+     "description": "Latchset",
+     "catalog_number": "GLA101 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 857,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "86",
+   "description": null,
+   "pages": [
+    21
+   ],
+   "components": [
+    {
+     "qty": 1311,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 437,
+     "description": "Latchset",
+     "catalog_number": "GLA101 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 437,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "87",
+   "description": null,
+   "pages": [
+    21
+   ],
+   "components": [
+    {
+     "qty": 2388,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 796,
+     "description": "Lockset",
+     "catalog_number": "GLA331 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 796,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "88",
+   "description": null,
+   "pages": [
+    21
+   ],
+   "components": [
+    {
+     "qty": 1635,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 545,
+     "description": "Latchset",
+     "catalog_number": "GLA101 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 545,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "89",
+   "description": null,
+   "pages": [
+    22
+   ],
+   "components": [
+    {
+     "qty": 780,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": []
+    },
+    {
+     "qty": 260,
+     "description": "Latchset",
+     "catalog_number": "GLA101 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 260,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  },
+  {
+   "set_number": "90",
+   "description": null,
+   "pages": [
+    22
+   ],
+   "components": [
+    {
+     "qty": 36,
+     "description": "Standard Hinge",
+     "catalog_number": "1010RP F-626E",
+     "mfr": null,
+     "finish": "-626E",
+     "notes": [],
+     "accept": {
+      "catalog_number": [
+       "1010RP F-626E -626E"
+      ],
+      "finish": [
+       "626"
+      ]
+     }
+    },
+    {
+     "qty": 12,
+     "description": "Latchset",
+     "catalog_number": "GLA101 MIL RDT",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    },
+    {
+     "qty": 12,
+     "description": "Door Stop",
+     "catalog_number": "IVES 69 / 63 As Required",
+     "mfr": null,
+     "finish": "US15",
+     "notes": []
+    }
+   ]
+  }
+ ]
+}

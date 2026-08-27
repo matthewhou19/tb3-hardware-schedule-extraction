@@ -1,0 +1,9 @@
+attempt=3
+attempt1=infra: docker-credential-desktop.exe Invalid argument (agent never started, zero cost)
+attempt2=infra/harness: ValueError CLAUDE_FORCE_OAUTH='****' (agent never started, zero cost)
+started_utc=2026-08-27T04:22:35Z
+tb3_head=9597744614a56cb5d7d52d22a9fa087b7249256c
+task_head=7c654cab0f6633b5d2414eb89ce8a80f2c518352
+harbor=0.18.0
+harbor_exit=0
+finished_utc=2026-08-27T04:27:57Z

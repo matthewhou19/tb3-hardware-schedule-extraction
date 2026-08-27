@@ -1,0 +1,7 @@
+round=2 (after impl-v2.1 fix)
+started_utc=2026-08-27T04:41:37Z
+task_head=a0de5bd0c94dee7c2b6a44e36b4466bf911d5ec7
+tb3_head=9597744614a56cb5d7d52d22a9fa087b7249256c
+harbor=0.18.0
+harbor_exit=0
+finished_utc=2026-08-27T04:47:15Z

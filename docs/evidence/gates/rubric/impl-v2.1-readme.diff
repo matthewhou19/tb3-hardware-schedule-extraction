@@ -1,0 +1,21 @@
+diff --git a/README.md b/README.md
+index a5eefe7..113703f 100644
+--- a/README.md
++++ b/README.md
+@@ -66,12 +66,12 @@ open. The pass mark sits in that gap.
+ 
+ The reference extractor decides the layout from the page rather than the file
+ name: it counts, for every layout it knows, how many set headings that layout
+-would find in the book, and takes the one that finds any. Each layout gets its
++would find in the book, and takes the one that finds the most. Each layout gets its
+ own reader over shared line machinery, because they differ in what a heading
+ looks like, which columns exist, whether column headers are printed at all, and
+-whether a page is an indented text block or a ruled grid. Column zones come
+-from the printed headers where a book has them and from the horizontal
+-clustering of the rows themselves where it does not. A thin rule crossing the
++whether a page is an indented text block or a ruled grid. Each reader knows the bands its
++own layout prints its columns in; the ruled-grid reader instead takes its
++cells from the table's own rules. A thin rule crossing the
+ vertical middle of a word's box is a strikethrough and deletes it; an underline
+ sits below the box and deletes nothing. The program is deterministic and
+ recovers every scored fact of the ground truth on all six books.
