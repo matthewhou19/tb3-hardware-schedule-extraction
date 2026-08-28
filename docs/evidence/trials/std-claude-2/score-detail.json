@@ -1,0 +1,1018 @@
+{
+  "lowest_book": 0.801089,
+  "books": [
+    {
+      "book": "bridgeport",
+      "atoms": 1883,
+      "hits": 1868,
+      "score": 0.992034,
+      "sets_missing": 0,
+      "sets_invented": 0,
+      "rows_missing": 0,
+      "rows_invented": 1,
+      "rows_waived": 0,
+      "sets_waived": 0,
+      "misses": {
+        "invented row": 4,
+        "finish": 4,
+        "text": 7
+      },
+      "worst_sets": [
+        {
+          "set": "17",
+          "printed_as": "17",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "2",
+          "printed_as": "2",
+          "state": "matched",
+          "atoms": 81,
+          "hits": 77,
+          "rows_paired": 20,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 2,
+            "text": 2
+          }
+        },
+        {
+          "set": "34",
+          "printed_as": "34",
+          "state": "matched",
+          "atoms": 81,
+          "hits": 77,
+          "rows_paired": 20,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 2,
+            "text": 2
+          }
+        },
+        {
+          "set": "24",
+          "printed_as": "24",
+          "state": "matched",
+          "atoms": 41,
+          "hits": 40,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        },
+        {
+          "set": "32",
+          "printed_as": "32",
+          "state": "matched",
+          "atoms": 41,
+          "hits": 40,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        },
+        {
+          "set": "47",
+          "printed_as": "47",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        }
+      ]
+    },
+    {
+      "book": "bridgeport2",
+      "atoms": 1171,
+      "hits": 1130,
+      "score": 0.964987,
+      "sets_missing": 0,
+      "sets_invented": 0,
+      "rows_missing": 0,
+      "rows_invented": 9,
+      "rows_waived": 0,
+      "sets_waived": 0,
+      "misses": {
+        "invented row": 36,
+        "text": 5
+      },
+      "worst_sets": [
+        {
+          "set": "53",
+          "printed_as": "53",
+          "state": "matched",
+          "atoms": 41,
+          "hits": 37,
+          "rows_paired": 9,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "54",
+          "printed_as": "54",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "55",
+          "printed_as": "55",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "57",
+          "printed_as": "57",
+          "state": "matched",
+          "atoms": 41,
+          "hits": 37,
+          "rows_paired": 9,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "59",
+          "printed_as": "59",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "60",
+          "printed_as": "60",
+          "state": "matched",
+          "atoms": 33,
+          "hits": 29,
+          "rows_paired": 7,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "61",
+          "printed_as": "61",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "63",
+          "printed_as": "63",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "64",
+          "printed_as": "64",
+          "state": "matched",
+          "atoms": 29,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 4
+          }
+        },
+        {
+          "set": "56",
+          "printed_as": "56",
+          "state": "matched",
+          "atoms": 37,
+          "hits": 36,
+          "rows_paired": 9,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        },
+        {
+          "set": "67",
+          "printed_as": "67",
+          "state": "matched",
+          "atoms": 25,
+          "hits": 24,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        },
+        {
+          "set": "68",
+          "printed_as": "68",
+          "state": "matched",
+          "atoms": 25,
+          "hits": 24,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        },
+        {
+          "set": "69",
+          "printed_as": "69",
+          "state": "matched",
+          "atoms": 41,
+          "hits": 40,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        },
+        {
+          "set": "70",
+          "printed_as": "70",
+          "state": "matched",
+          "atoms": 25,
+          "hits": 24,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1
+          }
+        }
+      ]
+    },
+    {
+      "book": "hfh",
+      "atoms": 2447,
+      "hits": 2185,
+      "score": 0.89293,
+      "sets_missing": 0,
+      "sets_invented": 1,
+      "rows_missing": 9,
+      "rows_invented": 45,
+      "rows_waived": 0,
+      "sets_waived": 0,
+      "misses": {
+        "text": 31,
+        "missing row": 36,
+        "invented row": 140,
+        "qty": 2,
+        "mfr": 8,
+        "finish": 4,
+        "invented set": 41
+      },
+      "worst_sets": [
+        {
+          "set": "499F",
+          "printed_as": "499F",
+          "state": "invented",
+          "atoms": 41,
+          "hits": 0,
+          "rows_paired": 0,
+          "rows_missing": 0,
+          "rows_invented": 10,
+          "rows_waived": 0,
+          "pages_ok": false,
+          "misses": {
+            "invented set": 41
+          }
+        },
+        {
+          "set": "100",
+          "printed_as": "100",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 12,
+          "rows_paired": 3,
+          "rows_missing": 9,
+          "rows_invented": 0,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "missing row": 36
+          }
+        },
+        {
+          "set": "122",
+          "printed_as": "122",
+          "state": "matched",
+          "atoms": 117,
+          "hits": 83,
+          "rows_paired": 26,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "qty": 2,
+            "mfr": 8,
+            "text": 8,
+            "finish": 4,
+            "invented row": 12
+          }
+        },
+        {
+          "set": "111",
+          "printed_as": "111",
+          "state": "matched",
+          "atoms": 61,
+          "hits": 52,
+          "rows_paired": 13,
+          "rows_missing": 0,
+          "rows_invented": 2,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 8
+          }
+        },
+        {
+          "set": "147",
+          "printed_as": "147",
+          "state": "matched",
+          "atoms": 33,
+          "hits": 24,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 2,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 8
+          }
+        },
+        {
+          "set": "110",
+          "printed_as": "110",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 49,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 2,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 8
+          }
+        },
+        {
+          "set": "99",
+          "printed_as": "099",
+          "state": "matched",
+          "atoms": 65,
+          "hits": 57,
+          "rows_paired": 14,
+          "rows_missing": 0,
+          "rows_invented": 2,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 8
+          }
+        },
+        {
+          "set": "113",
+          "printed_as": "113",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 52,
+          "rows_paired": 13,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "115",
+          "printed_as": "115",
+          "state": "matched",
+          "atoms": 69,
+          "hits": 64,
+          "rows_paired": 16,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "126",
+          "printed_as": "126",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 52,
+          "rows_paired": 13,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "129",
+          "printed_as": "129",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "130",
+          "printed_as": "130",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "132",
+          "printed_as": "132",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 52,
+          "rows_paired": 13,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "135",
+          "printed_as": "135",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "136",
+          "printed_as": "136",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "137",
+          "printed_as": "137",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "138",
+          "printed_as": "138",
+          "state": "matched",
+          "atoms": 61,
+          "hits": 56,
+          "rows_paired": 14,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "140",
+          "printed_as": "140",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 48,
+          "rows_paired": 12,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "142",
+          "printed_as": "142",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 44,
+          "rows_paired": 11,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        },
+        {
+          "set": "144",
+          "printed_as": "144",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 44,
+          "rows_paired": 11,
+          "rows_missing": 0,
+          "rows_invented": 1,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "text": 1,
+            "invented row": 4
+          }
+        }
+      ]
+    },
+    {
+      "book": "sjc",
+      "atoms": 2755,
+      "hits": 2207,
+      "score": 0.801089,
+      "sets_missing": 0,
+      "sets_invented": 0,
+      "rows_missing": 0,
+      "rows_invented": 129,
+      "rows_waived": 0,
+      "sets_waived": 1,
+      "misses": {
+        "invented row": 516,
+        "qty": 2,
+        "mfr": 2,
+        "finish": 13,
+        "text": 15
+      },
+      "worst_sets": [
+        {
+          "set": "28",
+          "printed_as": "HW 28",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 37,
+          "rows_paired": 9,
+          "rows_missing": 0,
+          "rows_invented": 5,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 20
+          }
+        },
+        {
+          "set": "E14",
+          "printed_as": "HW E14",
+          "state": "matched",
+          "atoms": 81,
+          "hits": 63,
+          "rows_paired": 16,
+          "rows_missing": 0,
+          "rows_invented": 4,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 1,
+            "text": 1,
+            "invented row": 16
+          }
+        },
+        {
+          "set": "19",
+          "printed_as": "HW 19",
+          "state": "matched",
+          "atoms": 61,
+          "hits": 45,
+          "rows_paired": 11,
+          "rows_missing": 0,
+          "rows_invented": 4,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 16
+          }
+        },
+        {
+          "set": "40",
+          "printed_as": "HW 40",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 33,
+          "rows_paired": 8,
+          "rows_missing": 0,
+          "rows_invented": 4,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 16
+          }
+        },
+        {
+          "set": "41",
+          "printed_as": "HW 41",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 33,
+          "rows_paired": 8,
+          "rows_missing": 0,
+          "rows_invented": 4,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 16
+          }
+        },
+        {
+          "set": "35",
+          "printed_as": "HW 35",
+          "state": "matched",
+          "atoms": 45,
+          "hits": 31,
+          "rows_paired": 8,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 1,
+            "text": 1,
+            "invented row": 12
+          }
+        },
+        {
+          "set": "42",
+          "printed_as": "HW 42",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 35,
+          "rows_paired": 9,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 1,
+            "text": 1,
+            "invented row": 12
+          }
+        },
+        {
+          "set": "43",
+          "printed_as": "HW 43",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 39,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 1,
+            "text": 1,
+            "invented row": 12
+          }
+        },
+        {
+          "set": "E08",
+          "printed_as": "HW E08",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 43,
+          "rows_paired": 11,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "finish": 1,
+            "text": 1,
+            "invented row": 12
+          }
+        },
+        {
+          "set": "10",
+          "printed_as": "HW 10",
+          "state": "matched",
+          "atoms": 45,
+          "hits": 33,
+          "rows_paired": 8,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "12C",
+          "printed_as": "HW 12C",
+          "state": "matched",
+          "atoms": 37,
+          "hits": 25,
+          "rows_paired": 6,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "15A",
+          "printed_as": "HW 15A",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 41,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "18",
+          "printed_as": "HW 18",
+          "state": "matched",
+          "atoms": 49,
+          "hits": 37,
+          "rows_paired": 9,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "30",
+          "printed_as": "HW 30",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 41,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "34",
+          "printed_as": "HW 34",
+          "state": "matched",
+          "atoms": 45,
+          "hits": 33,
+          "rows_paired": 8,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "46",
+          "printed_as": "HW 46",
+          "state": "matched",
+          "atoms": 45,
+          "hits": 33,
+          "rows_paired": 8,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "6",
+          "printed_as": "HW 06",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 41,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "A03",
+          "printed_as": "HW A03",
+          "state": "matched",
+          "atoms": 57,
+          "hits": 45,
+          "rows_paired": 11,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "A04",
+          "printed_as": "HW A04",
+          "state": "matched",
+          "atoms": 53,
+          "hits": 41,
+          "rows_paired": 10,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        },
+        {
+          "set": "E01",
+          "printed_as": "HW E01",
+          "state": "matched",
+          "atoms": 69,
+          "hits": 57,
+          "rows_paired": 14,
+          "rows_missing": 0,
+          "rows_invented": 3,
+          "rows_waived": 0,
+          "pages_ok": true,
+          "misses": {
+            "invented row": 12
+          }
+        }
+      ]
+    }
+  ]
+}
